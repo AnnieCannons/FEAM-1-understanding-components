@@ -19,7 +19,8 @@ A. Y=GRANDMOTHER
 3. Which component needs access to every piece of data? Which component only needs access to the filtered data?
 
 
-
+grandparent need access to all data 
+and the kid and grandkid get filtter data 
 
 
 
@@ -28,10 +29,11 @@ A. Y=GRANDMOTHER
 
 
 
-
+name description and price
 
 
 
 
 5. What JavaScript could we write to filter the objects based on whether or not the listing has a pool?
+a loop 
  */

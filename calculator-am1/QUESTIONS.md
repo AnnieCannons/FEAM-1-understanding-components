@@ -13,3 +13,4 @@ A. Each CSS file are connected to it own component file
 6. How are the css files connected to the js files? (Look at the top of the js files for clues)
 A. My guess is that the import  imports the whole file so not just buttons.js is imported but button.css also 
 7. Look at the HTML file. What do you notice?
+A. there is nothing in the file 
