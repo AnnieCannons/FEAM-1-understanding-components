@@ -2,22 +2,25 @@
  Using the image of the Airbnb UI, answer the following questions:
  1. What are four main components you see on the page?
 
-
-
+where the search bar is 
+The bar with all the small icons 
+the area where the photos of the different places 
 
 
  2. Put the components in order to show the parent/child relationship. So if component x is the mother of y and grandmother of z, you would write: 
-    1. x
-    2. y
-    3. z
-
-
+    1. x=mother 
+    2. y=grandmother
+    3. z=child 
+A. Y=GRANDMOTHER 
+   X=MOTHER 
+   Z=CHILD
 
 
 3. Which component needs access to every piece of data? Which component only needs access to the filtered data?
 
 
-
+grandparent need access to all data 
+and the kid and grandkid get filtter data 
 
 
 
@@ -26,10 +29,11 @@
 
 
 
-
+name description and price
 
 
 
 
 5. What JavaScript could we write to filter the objects based on whether or not the listing has a pool?
+a loop 
  */
